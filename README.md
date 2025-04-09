@@ -51,3 +51,9 @@ I'm a backend developer in training with a focus on **Java** and **Spring Boot**
 <a href="https://discord.com/channels/petruckio_dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="apoorv#4040" height="40" width="30" /></a>&nbsp;
 <a href="mauriciofpferreira@gmail.com"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" /></a>
 </p>
+
+---
+
+## 📝 License
+
+This project is licensed under the **MIT License** – see the [LICENSE](./LICENSE) file for details.
